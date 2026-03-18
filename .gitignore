@@ -1,0 +1,13 @@
+# Ignore data files
+*.edf
+*.csv
+*.npy
+
+# Ignore Python cache and Jupyter checkpoints
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore environment folders (if you created one inside the directory)
+env/
+venv/
+.conda/
